@@ -6,7 +6,7 @@ working on various projects:
 
 - I'm leading the development of a next-generation comprehensive framework to
   build cross-platform desktop applications using web technologies. If you are
-  into Chromium, C++, JavaScript and remote working, do [reach
+  into Chromium, Electron.js, C++, JavaScript and remote working, do [reach
   out](mailto:juan.viotti@postman). We are hiring!
 
 - I'm building a very space-efficient schema-driven binary serialization format
