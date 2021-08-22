@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hey there 👋
 
-<!--
-**jviotti/jviotti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Technical Lead at [Postman](https://www.postman.com) focusing on Desktop
+Engineering and a graduate student at University of Oxford. I'm currently
+working on various projects:
 
-Here are some ideas to get you started:
+- I'm leading the development of a next-generation comprehensive framework to
+  build cross-platform desktop applications using web technologies. If you are
+  into Chromium, C++, JavaScript and remote working, do [reach
+  out](mailto:juan.viotti@postman). We are hiring!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I'm building a very space-efficient schema-driven binary serialization format
+  for IoT and the web based on [JSON Schema](http://json-schema.org).
