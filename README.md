@@ -10,4 +10,5 @@ working on various projects:
   out](mailto:juan.viotti@postman). We are hiring!
 
 - I'm building a very space-efficient schema-driven binary serialization format
-  for IoT and the web based on [JSON Schema](http://json-schema.org).
+  for IoT and the web based on [JSON Schema](http://json-schema.org). This
+  project will be open-source once I submit by dissertation!
