@@ -12,3 +12,9 @@ working on various projects:
 - I'm building a very space-efficient schema-driven binary serialization format
   for IoT and the web based on [JSON Schema](http://json-schema.org). This
   project will be open-source once I submit by dissertation!
+
+#### Previous projects
+
+I created and led the development of
+[Etcher](https://github.com/balena-io/etcher), a popular open-source
+cross-platform image flasher.
