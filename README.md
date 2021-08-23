@@ -25,8 +25,8 @@ let's have virtual coffee to exchange thoughts!
 #### Previous projects
 
 - **Etcher**: I created and led the development of
-  [Etcher](https://github.com/balena-io/etcher), a popular open-source
-  cross-platform image flasher.
+  [Etcher](https://www.balena.io/etcher/), a popular open-source cross-platform
+  image flasher.
 
 #### Links
 
