@@ -18,3 +18,9 @@ working on various projects:
 I created and led the development of
 [Etcher](https://github.com/balena-io/etcher), a popular open-source
 cross-platform image flasher.
+
+#### Links
+
+- Personal website (https://www.jviotti.com)
+- LinkedIn (https://www.linkedin.com/in/jviotti/)
+- Buy me a coffee (https://ko-fi.com/jviotti)
