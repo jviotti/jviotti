@@ -13,6 +13,9 @@ working on various projects:
   for IoT and the web based on [JSON Schema](http://json-schema.org). This
   project will be open-source once I submit by dissertation!
 
+If we share similar interests, [shoot me an e-mail](mailto:jv@jviotti.com) and
+let's have virtual coffee to exchange experiences!
+
 #### Previous projects
 
 I created and led the development of
