@@ -7,7 +7,9 @@ working on various projects:
 - **Starship**: I'm leading the development of a next-generation comprehensive
   framework to build cross-platform desktop applications using web technologies
   codenamed Starship. If you are into Chromium, Electron.js, C++, JavaScript
-  and remote working, do [reach out](mailto:juan.viotti@postman). We are
+  and remote working, do [reach out](mailto:juan.viotti@postman). We've closed
+  a [Series D round of
+  $225M](https://blog.postman.com/postman-announces-series-d/) and we are
   hiring!
 
 - **JSON BinPack**: I'm building a very space-efficient schema-driven binary
