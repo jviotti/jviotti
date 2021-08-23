@@ -14,7 +14,7 @@ working on various projects:
   project will be open-source once I submit by dissertation!
 
 If we share similar interests, [shoot me an e-mail](mailto:jv@jviotti.com) and
-let's have virtual coffee to exchange experiences!
+let's have virtual coffee to exchange thoughts!
 
 #### Previous projects
 
