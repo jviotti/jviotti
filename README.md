@@ -19,7 +19,7 @@ working on various projects:
   Avro, Microsoft Bond, BSON, Cap'n Proto, CBOR, FlatBuffers, MessagePack,
   Protocol Buffers, Smile, Apache Thrift and UBJSON in every case when taking a
   sample set of real-world documents. This project will be open-source once I
-  submit by dissertation!
+  submit my dissertation!
 
 If we share similar interests, [shoot me an e-mail](mailto:jv@jviotti.com) and
 let's have virtual coffee to exchange thoughts!
