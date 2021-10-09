@@ -22,7 +22,7 @@ working on various projects:
   submit my dissertation!
 
 If we share similar interests, [shoot me an e-mail](mailto:jv@jviotti.com) and
-let's have virtual coffee to exchange thoughts!
+let's have a virtual coffee to exchange thoughts!
 
 #### Previous projects
 
