@@ -12,10 +12,10 @@ working on various projects:
   $225M](https://blog.postman.com/postman-announces-series-d/) and we are
   hiring!
 
-- **JSON BinPack**: I'm building a very space-efficient schema-driven binary
+- **JSON BinPack**: I'm building a space-efficient schema-driven binary
   serialization format for IoT and the web based on [JSON
   Schema](http://json-schema.org) called JSON BinPack. My research so far has
-  already proven this format to be more space-efficient than ASN.1 PER, Apache
+  proven this format to be more space-efficient than ASN.1 PER, Apache
   Avro, Microsoft Bond, BSON, Cap'n Proto, CBOR, FlatBuffers, MessagePack,
   Protocol Buffers, Smile, Apache Thrift and UBJSON in every case when taking a
   sample set of real-world documents. This project will be open-source once I
