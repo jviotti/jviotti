@@ -1,5 +1,7 @@
 ### Hey there 👋
 
+[<img src="cover.png" align="right" width="200">](https://learning.oreilly.com/library/view/unifying-business-data/9781098144999/)
+
 Hey there! I'm a Computer Scientist with experience in startups, open-source,
 and academia. Some facts about me: 
 
