@@ -8,11 +8,13 @@ and academia. Some facts about me:
 - At [Postman](https://www.postman.com), I lead the development of Starship, a
   C++ framework to create cross-platform native applications 
 
-- I'm co-authoring an O'Reilly book: [Unifying Business, Data, and Code:
-  Designing Data Products with JSON
+- I co-authored an O'Reilly book: [Unifying Business, Data, and Code: Designing
+  Data Products with JSON
   Schema](https://learning.oreilly.com/library/view/unifying-business-data/9781098144999/).
-  You can read the Early Release right now, and get the final edition in early
-  2024 
+  Read it online on
+  [O'Reilly](https://learning.oreilly.com/library/view/unifying-business-data/9781098144999/),
+  or buy it from [Amazon](https://www.amazon.com/_/dp/1098145003) and
+  [eBooks.com](https://www.ebooks.com/search/?term=9781098145002&affid=OMI5374258).
 
 - At University of Oxford, I won the 2022 CAR Hoare prize for the best
   dissertation and accompanying papers in the area of Software Engineering for
