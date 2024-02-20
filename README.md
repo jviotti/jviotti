@@ -40,6 +40,6 @@ and academia. Some facts about me:
 
 - Personal website (https://www.jviotti.com)
 - LinkedIn (https://www.linkedin.com/in/jviotti/)
-- Buy me a coffee (https://ko-fi.com/jviotti)
+- Buy me a coffee (https://ko-fi.com/jviotti or https://www.buymeacoffee.com/jviotti)
 - Sponsor me on GitHub (https://github.com/sponsors/jviotti)
 - Book a 1-on-1 (https://topmate.io/jviotti)
