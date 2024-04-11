@@ -5,8 +5,8 @@
 Hey there! I'm a Computer Scientist with experience in startups, open-source,
 and academia. Some facts about me: 
 
-- At [Postman](https://www.postman.com), I lead the development of Starship, a
-  C++ framework to create cross-platform native applications 
+- I'm the co-founder and CTO of [Intelligence.AI](https://www.intelligence.ai), with a mission
+  to make a difference on how people work with data
 
 - I co-authored an O'Reilly book: [Unifying Business, Data, and Code: Designing
   Data Products with JSON
@@ -22,7 +22,10 @@ and academia. Some facts about me:
   made a breakthrough on 40 years of space-efficient telecommunication and
   binary serialization technologies, being more space-efficient than 13 other
   popular technologies [in every single tested
-  case](https://arxiv.org/abs/2211.12799) 
+  case](https://arxiv.org/abs/2211.12799)
+
+- At [Postman](https://www.postman.com), I led the development of Starship, a
+  C++ framework to create cross-platform native applications 
 
 - I'm the original author of [Etcher](https://www.balena.io/etcher/), a popular
   open-source cross-platform image flasher. This desktop app is recommended by
