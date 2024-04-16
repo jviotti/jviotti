@@ -2,8 +2,12 @@
 
 [<img src="cover.png" align="right" width="200">](https://learning.oreilly.com/library/view/unifying-business-data/9781098144999/)
 
-Hey there! I'm a Computer Scientist with experience in startups, open-source,
+I'm a Computer Scientist with experience in startups, open-source,
 and academia. Some facts about me: 
+
+- I offer consulting services on topics including C++,
+  CMake, macOS, JSON Schema, software architecture, and data. Don't hesitate in
+  [reaching out](mailto:jv@jviotti.com) to discuss further
 
 - I'm the co-founder and CTO of [Intelligence.AI](https://www.intelligence.ai), with a mission
   to make a difference on how people work with data
