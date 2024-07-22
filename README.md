@@ -29,7 +29,9 @@ and academia. Some facts about me:
   case](https://arxiv.org/abs/2211.12799)
 
 - At [Postman](https://www.postman.com), I led the development of Starship, a
-  C++ framework to create cross-platform native applications 
+  C++ framework to create cross-platform native applications
+
+- I'm a TSC member of the [JSON Schema](https://json-schema.org) open-source organization
 
 - I'm the original author of [Etcher](https://www.balena.io/etcher/), a popular
   open-source cross-platform image flasher. This desktop app is recommended by
@@ -37,11 +39,12 @@ and academia. Some facts about me:
 
 - I lead a London-based C++ open-source research lab called
   [Sourcemeta](https://www.sourcemeta.com) providing cutting-edge JSON-related
-  technologies. There, I maintain a custom JSON parser, JSON binary
-  technologies, and a variety of JSON Schema related projects 
+  technologies. There, I maintain high-performance JSON related projects,
+  including a state-of-the-art JSON Schema compiler up to 200x faster than
+  alternatives
 
 - I own the [Learn JSON Schema](https://www.learnjsonschema.com/) reference
-  documentation website, which serves more than 7k monthly users
+  documentation website, which serves more than 9k monthly users
 
 #### Links
 
