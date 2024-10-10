@@ -20,9 +20,9 @@ and academia. Some facts about me:
   or buy it from [Amazon](https://www.amazon.com/_/dp/1098145003) and
   [eBooks.com](https://www.ebooks.com/search/?term=9781098145002&affid=OMI5374258).
 
-- At University of Oxford, I won the 2022 CAR Hoare prize for the best
+- At the University of Oxford, I won the 2022 CAR Hoare prize for the best
   dissertation and accompanying papers in the area of Software Engineering for
-  my research around [JSON BinPack](https://www.jsonbinpack.org). JSON BinPack
+  my research around [JSON BinPack](https://jsonbinpack.sourcemeta.com). JSON BinPack
   made a breakthrough on 40 years of space-efficient telecommunication and
   binary serialization technologies, being more space-efficient than 13 other
   popular technologies [in every single tested
