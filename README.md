@@ -9,9 +9,6 @@ and academia. Some facts about me:
   CMake, macOS, JSON Schema, software architecture, and data. Don't hesitate in
   [reaching out](mailto:jv@jviotti.com) to discuss further
 
-- I'm the co-founder and CTO of [Intelligence.AI](https://www.intelligence.ai), with a mission
-  to make a difference on how people work with data
-
 - I co-authored an O'Reilly book: [Unifying Business, Data, and Code: Designing
   Data Products with JSON
   Schema](https://learning.oreilly.com/library/view/unifying-business-data/9781098144999/).
