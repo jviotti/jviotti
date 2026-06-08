@@ -32,8 +32,7 @@ and academia. Some facts about me:
 - I lead a C++ open-source research lab called
   [Sourcemeta](https://www.sourcemeta.com) providing cutting-edge JSON-related
   technologies. There, I maintain high-performance JSON related projects,
-  including a state-of-the-art JSON Schema compiler up to 200x faster than
-  alternatives
+  including a state-of-the-art JSON Schema tooling
 
 - I own the [Learn JSON Schema](https://www.learnjsonschema.com/) reference
   documentation website, which serves more than 9k monthly users
